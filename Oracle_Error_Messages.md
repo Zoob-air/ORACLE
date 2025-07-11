@@ -1,5 +1,5 @@
-**ORA-31634**
-**ORA-31664**
+###**ORA-31634**
+###**ORA-31664**
 
 
 oracle@mvtest]$ expdp migrasi/migrasi@tataruang schemas=ARSIP directory=dmptataruang dumpfile=ARSIP_`date +%d_%b_%y`.dmptataruang logfile=ARSIP_`date +%d_%b_%y`.log parallel=4
